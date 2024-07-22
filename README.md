@@ -18,7 +18,7 @@ Welcome to my Cybersecurity Project Collection! This repository showcases a vari
 ## Contact
 If you have any questions or need further assistance, feel free to DM me on Instagram.
 
-Instagram: [ppl_call_me_as_bad_capton](https://www.instagram.com/ppl_call_me_as_bad_capton?igsh=NG1tYmpsYW5jcWY=)
+Instagram: [ppl_call_me_as_badcapton](https://www.instagram.com/ppl_call_me_as_badcapton?igsh=MTF0ZnBkNXdvOXU5cg==)
 
 
 Thank you for checking out my cybersecurity projects! Feel free to contribute or suggest improvements. Happy coding!
