@@ -1,4 +1,4 @@
-# Cybersecurity Project Intern
+# Cybersecurity Intern
 
 Welcome to my Cybersecurity Project Collection! This repository showcases a variety of cybersecurity-related projects that I've successfully completed. If you have any questions or need further assistance, feel free to DM me on Instagram.
 
